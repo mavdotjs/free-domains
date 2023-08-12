@@ -1,7 +1,7 @@
 addSubDomain({
-  description: 'Minecraft server', // describe your project in this field
-  domain: '1bt.uk', // aka "root-domain". select between '1bt.uk' and 'is-an.app'
-  subdomain: 'mayhem', // desired subdomain name
+  description: 'MayhemUHC minecraft server',=
+  domain: '1bt.uk',
+  subdomain: 'mayhem',
   owner: {
     email: 'ceo@marinadev.xyz',
   },
