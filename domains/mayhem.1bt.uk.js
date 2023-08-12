@@ -8,4 +8,5 @@ addSubDomain({
   record: {
     A: ['65.108.201.14'],
   },
+  proxy: false
 })
