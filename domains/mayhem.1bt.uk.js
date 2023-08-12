@@ -1,5 +1,5 @@
 addSubDomain({
-  description: 'MayhemUHC minecraft server',=
+  description: 'MayhemUHC minecraft server',
   domain: '1bt.uk',
   subdomain: 'mayhem',
   owner: {
